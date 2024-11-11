@@ -1,0 +1,1 @@
+使用BroadcastReceiver实现强制下线！
